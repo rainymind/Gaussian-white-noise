@@ -1,4 +1,5 @@
-% Number of samples.540000000000000000
+% 540000000000000000
+% Number of samples.
 num_samples = 1000;
 
 % Generating Gaussian white noise.
